@@ -1,6 +1,8 @@
 # PhoneMapper
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3. PhoneMapper's primary purposes are to demonstrate the power of unit testing, solve an interesting problem, and get accustomed to most recent version of AngularJS.
+
+Development was completed in mid July, and some of the specific steps are chronicled in previous repositories (which will be taken down soon).
 
 ## Development server
 
@@ -26,4 +28,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# phone-mapper
+
+## Demo
+
+This app is hosted [here](https://cuzoaru90.github.io/phone-mapper/).
